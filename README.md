@@ -27,7 +27,6 @@
 | Framework     | Next.js 15 (App Router)                  |
 | Styling       | TailwindCSS, ShadCN UI                   |
 | Language      | TypeScript                               |
-| Auth          | NextAuth (Google + GitHub OAuth)         |
 | Editor        | Monaco Editor                            |
 | AI Suggestion | Ollama (LLMs running locally via Docker) |
 | Runtime       | WebContainers                            |
