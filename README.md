@@ -41,8 +41,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/vibecode-editor.git
-cd vibecode-editor
+git clone https://github.com/Tanishq-Mathur35/__vibe_code_editor__.git
 ```
 
 ### 2. Install Dependencies
