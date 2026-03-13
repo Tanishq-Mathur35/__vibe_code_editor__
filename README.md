@@ -8,7 +8,6 @@
 
 ## 🚀 Features
 
-- 🔐 **OAuth Login with NextAuth** – Supports Google & GitHub login.
 - 🎨 **Modern UI** – Built with TailwindCSS & ShadCN UI.
 - 🌗 **Dark/Light Mode** – Seamlessly toggle between themes.
 - 🧱 **Project Templates** – Choose from React, Next.js, Express, Hono, Vue, or Angular.
@@ -23,17 +22,17 @@
 
 ## 🧱 Tech Stack
 
-| Layer         | Technology                                   |
-|---------------|----------------------------------------------|
-| Framework     | Next.js 15 (App Router)                      |
-| Styling       | TailwindCSS, ShadCN UI                       |
-| Language      | TypeScript                                   |
-| Auth          | NextAuth (Google + GitHub OAuth)             |
-| Editor        | Monaco Editor                                |
-| AI Suggestion | Ollama (LLMs running locally via Docker)     |
-| Runtime       | WebContainers                                |
-| Terminal      | xterm.js                                     |
-| Database      | MongoDB (via DATABASE_URL)                   |
+| Layer         | Technology                               |
+| ------------- | ---------------------------------------- |
+| Framework     | Next.js 15 (App Router)                  |
+| Styling       | TailwindCSS, ShadCN UI                   |
+| Language      | TypeScript                               |
+| Auth          | NextAuth (Google + GitHub OAuth)         |
+| Editor        | Monaco Editor                            |
+| AI Suggestion | Ollama (LLMs running locally via Docker) |
+| Runtime       | WebContainers                            |
+| Terminal      | xterm.js                                 |
+| Database      | MongoDB (via DATABASE_URL)               |
 
 ---
 
@@ -44,7 +43,7 @@
 ```bash
 git clone https://github.com/your-username/vibecode-editor.git
 cd vibecode-editor
-````
+```
 
 ### 2. Install Dependencies
 
@@ -90,18 +89,15 @@ npm run dev
 
 Visit `http://localhost:3000` in your browser.
 
-
 ---
 
 ## 🎯 Keyboard Shortcuts
 
-* `Ctrl + Space` or `Double Enter`: Trigger AI suggestions
-* `Tab`: Accept AI suggestion
-* `/`: Open Command Palette (if implemented)
+- `Ctrl + Space` or `Double Enter`: Trigger AI suggestions
+- `Tab`: Accept AI suggestion
+- `/`: Open Command Palette (if implemented)
 
 ---
-
-
 
 ---
 
@@ -113,10 +109,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
-* [Monaco Editor](https://microsoft.github.io/monaco-editor/)
-* [Ollama](https://ollama.com/) – for offline LLMs
-* [WebContainers](https://webcontainers.io/)
-* [xterm.js](https://xtermjs.org/)
-* [NextAuth.js](https://next-auth.js.org/)
+- [Monaco Editor](https://microsoft.github.io/monaco-editor/)
+- [Ollama](https://ollama.com/) – for offline LLMs
+- [WebContainers](https://webcontainers.io/)
+- [xterm.js](https://xtermjs.org/)
+- [NextAuth.js](https://next-auth.js.org/)
+
+```
 
 ```
